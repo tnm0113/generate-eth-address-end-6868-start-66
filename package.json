@@ -1,0 +1,26 @@
+{
+  "name": "generate-eth-address-end-6868-start-66",
+  "version": "1.0.0",
+  "description": "generate-eth-address-end-6868-start-66",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tnm0113/generate-eth-address-end-6868-start-66"
+  },
+  "keywords": [
+    "eth"
+  ],
+  "author": "tnm0113",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnm0113/generate-eth-address-end-6868-start-66/issues"
+  },
+  "homepage": "https://github.com/tnm0113/generate-eth-address-end-6868-start-66",
+  "dependencies": {
+    "ethers": "^6.11.1",
+    "generate-eth-address-end-6868": "^1.0.1"
+  }
+}
